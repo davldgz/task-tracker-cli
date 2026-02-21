@@ -15,7 +15,3 @@ def update_task(task_list):
 
 def delete_task(task_list):
     pass
-
-
-if __init__ == '__main__':
-    main()
